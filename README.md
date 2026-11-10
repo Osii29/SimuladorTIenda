@@ -1,10 +1,10 @@
-# 🍜 Nabi Store – Plataforma Web de Comercio Electrónico
+# Nabi Store – Plataforma Web de Comercio Electrónico
 
 Interfaz web *frontend* de comercio electrónico diseñada para **Nabi Store**, una tienda especializada en botanas, ramen y bebidas importadas de Asia. El proyecto implementa un catálogo interactivo con selección multinivel de variantes, carrito de compras deslizable en tiempo real y flujo de confirmación de pedido utilizando **HTML5, CSS3 y JavaScript Vanilla**.
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 
 * **Modal Dinámico con Selección Multinivel:** Sistema inteligente en JavaScript (`openProductModal`) que detecta automáticamente la estructura de datos de cada producto:
   * **Arreglos simples:** Despliega un selector directo de sabores (ej. *Buldak Ramen*, *Soju*, *Pocky*).
@@ -15,7 +15,7 @@ Interfaz web *frontend* de comercio electrónico diseñada para **Nabi Store**, 
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Estructura:** HTML5 Semántico
 * **Estilos y Diseño:** CSS3 (Custom Properties, Flexbox, CSS Grid, Media Queries implícitas)
@@ -23,7 +23,7 @@ Interfaz web *frontend* de comercio electrónico diseñada para **Nabi Store**, 
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── index.html                   # Estructura principal, catálogo de productos, modal y sidebar del carrito
@@ -35,7 +35,7 @@ Interfaz web *frontend* de comercio electrónico diseñada para **Nabi Store**, 
 
 ---
 
-## ⚙️ Instalación y Uso Local
+##  Instalación y Uso Local
 
 No requiere dependencias externas ni servidores de compilación.
 
@@ -48,7 +48,7 @@ No requiere dependencias externas ni servidores de compilación.
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Osiel Carapia Ruiz**  
 *Ingeniería en Computación – UNAM (FES Aragón)*  
